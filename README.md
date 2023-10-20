@@ -38,7 +38,7 @@ src="https://img.shields.io/twitter/follow/jorge_pramos_?logo=twitter&style=for-
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" width="36" height="36" alt="CSS3" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://www.iconninja.com/files/323/329/216/black-jquery-icon.png" width="36" height="36" alt="JQuery" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://assets.stickpng.com/images/62a76492bd73a4af5c5d4fb9.png" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
 
