@@ -5,7 +5,6 @@ Robotics enthusiast with his heart in research and development.
 
 ### Contact
 
-* See my portfolio at [Git](http://github.com/JorgePRamos)
 * Contact me at [jorgepramoscontact@gmail.com](mailto:jorgepramoscontact@gmail.com)
 
 <a href="https://www.github.com/JorgePRamos" target="_blank" rel="noreferrer"><img
@@ -37,7 +36,7 @@ src="https://img.shields.io/twitter/follow/jorge_pramos_?logo=twitter&style=for-
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="36" height="36" alt="HTML5" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" width="36" height="36" alt="CSS3" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://www.iconninja.com/files/323/329/216/black-jquery-icon.png" width="36" height="36" alt="JQuery" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://www.iconninja.com/files/430/994/501/jquery-icon.png" width="36" height="36" alt="JQuery" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
