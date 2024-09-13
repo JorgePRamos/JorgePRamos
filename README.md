@@ -47,6 +47,7 @@ src="https://img.shields.io/twitter/follow/jorge_pramos_?logo=twitter&style=for-
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" width="36" height="36" alt="Django" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robot_Operating_System_logo.svg/1200px-Robot_Operating_System_logo.svg.png" width="36" height="36" alt="ROS" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://moveit.ros.org/" target="_blank" rel="noreferrer"><img src="https://cdck-file-uploads-global.s3.dualstack.us-west-2.amazonaws.com/business7/uploads/ros/original/2X/b/b4b284208daf4108a086dc5c98e9e2e77c3f266f.png" width="36" height="36" alt=".NET" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" height="36" alt="PyTorch" /></a>
 </p>
 
 
